@@ -1,0 +1,39 @@
+1618556167407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELCOT\\AppData\\Local\\Temp\\rust_mozprofile4Nj1E1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618556204252	Marionette	INFO	Listening on port 55753
+1618556205759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging.orgfarm.store/, line 660: ReferenceError: $ is not defined
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1618556232759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://staging.orgfarm.store/, line 694: ReferenceError: $ is not defined
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1618556329566	Marionette	INFO	Stopped listening on port 55753
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELCOT\\AppData\\Local\\Temp\\rust_mozprofilezhAHOG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618556271956	Marionette	INFO	Listening on port 55888
+1618556272091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging.orgfarm.store/, line 660: ReferenceError: $ is not defined
+JavaScript error: https://staging.orgfarm.store/, line 1537: TypeError: window.fcWidget is undefined
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: https://staging.orgfarm.store/, line 1: ReferenceError: displayPostcode is not defined
+1618556305034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://wchat.freshchat.com/js/widget.js, line 117: TypeError: t is null
+1618556317374	Marionette	INFO	Stopped listening on port 55888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
